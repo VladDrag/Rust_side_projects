@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-![Rust](/home/vlad/Desktop/Rust.png)
-=======
-[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.technotification.com%2Fwp-content%2Fuploads%2F2018%2F09%2FRust-programming-language.jpg&f=1&nofb=1]
->>>>>>> d786382f12613c3ee0d72493c036c9c08a153eb3
+[Rust](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.technotification.com%2Fwp-content%2Fuploads%2F2018%2F09%2FRust-programming-language.jpg&f=1&nofb=1)
 
 Here I will post all my Rust exercises/side-projects, besides the 42 Wolfsburg coding school.
 I will begin with easy projects and increase difficulty steadily.
