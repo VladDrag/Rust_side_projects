@@ -1,5 +1,5 @@
 
-[/home/vlad/Desktop/Rust.png]
+![Rust](/home/vlad/Desktop/Rust.png)
 
 Here I will post all my Rust exercises/side-projects, besides the 42 Wolfsburg coding school.
 I will begin with easy projects and increase difficulty steadily.
