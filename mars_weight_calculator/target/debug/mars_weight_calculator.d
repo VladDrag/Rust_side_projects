@@ -1,1 +1,0 @@
-/home/vlad/Desktop/rusty_boi/rust_dirt/mars_weight_calculator/target/debug/mars_weight_calculator: /home/vlad/Desktop/rusty_boi/rust_dirt/mars_weight_calculator/src/main.rs /home/vlad/Desktop/rusty_boi/rust_dirt/mars_weight_calculator/src/mars_weight_calculator.rs
