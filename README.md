@@ -7,4 +7,5 @@ I will record my progress in the meantime.
 
 **Mars weigh Calculator**: *an easy project which calculates the equivalent weight of a person from Earth to the one on Mars.*
 
-**Shopping list**: *an easy project which makes use of an infinite loop, the match statement and string/vector methods in order to add items to a shopping list, which is then displayed in a for loop. This is done in parralel to the Rustlings exercises and Leetcode.com exercises for arrays.*
+**Shopping list**: *an easy project which makes use of an infinite loop and string/vector methods in order to add items to a shopping list, which is then displayed in a for loop. This is done in parralel to the Rustlings exercises and Leetcode.com exercises for arrays.
+For this project, I wished to work on 2 different versions - one with a regular 'while' loop and one with an **infinite loop** combined with the **match** statement, which is a very powerful and useful tool. *
